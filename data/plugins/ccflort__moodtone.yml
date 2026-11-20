@@ -1,0 +1,7 @@
+url: https://github.com/ccflort/moodtone
+name: ccflort/moodtone
+category: theme
+description:
+  en: Six mood palettes for DeepSeek Harness, nine editable semantic colors with live contrast readout, seven message-bubble styles and five material controls, stored locally.
+  zh: 六套情绪配色、九个可编辑语义色（实时显示对比度）、七种气泡样式与五个材质参数，配置存在本地。
+icon: https://raw.githubusercontent.com/ccflort/moodtone/main/assets/icon-180.png
